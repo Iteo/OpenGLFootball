@@ -1,6 +1,6 @@
 # OpenGLFootball
 
-<img src="open_gl_football.gif" width="200" height="600" />
+<img src="open_gl_football.gif" width="270" height="480" />
 
 This repository contains sample football application which shows basic usage of OpenGL on Android:
 
